@@ -7,3 +7,4 @@ LMDB
 opencv-python
 imutils
 alyn
+tensorflow==1.4.0
