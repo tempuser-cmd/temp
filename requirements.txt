@@ -4,3 +4,5 @@ Pillow==4.2.1
 torchvision==0.2.1
 Colour
 LMDB
+opencv-python
+imutils
