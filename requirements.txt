@@ -7,5 +7,5 @@ LMDB
 opencv-python
 imutils
 alyn
-matplotlib==1.5.1
+matplotlib
 tensorflow==1.4.0
