@@ -8,4 +8,4 @@ imutils
 alyn
 torch==0.3.1
 torchvision==0.2.1
-tensorflow==1.4.0
+tensorflow==2.9.3
